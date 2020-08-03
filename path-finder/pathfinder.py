@@ -3,7 +3,6 @@ import math
 from queue import PriorityQueue
 
 from box import BOX
-from button import Button
 from algorithm import Algorithm
 from drawutil import DrawUtil
 
